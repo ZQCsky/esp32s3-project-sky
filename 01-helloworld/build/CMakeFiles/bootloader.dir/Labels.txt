@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/zqc/esp32s3-sky/esp32s3-project-sky/01-helloworld/build/CMakeFiles/bootloader
+/home/zqc/esp32s3-sky/esp32s3-project-sky/01-helloworld/build/CMakeFiles/bootloader.rule
+/home/zqc/esp32s3-sky/esp32s3-project-sky/01-helloworld/build/CMakeFiles/bootloader-complete.rule
+/home/zqc/esp32s3-sky/esp32s3-project-sky/01-helloworld/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/zqc/esp32s3-sky/esp32s3-project-sky/01-helloworld/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/zqc/esp32s3-sky/esp32s3-project-sky/01-helloworld/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/zqc/esp32s3-sky/esp32s3-project-sky/01-helloworld/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/zqc/esp32s3-sky/esp32s3-project-sky/01-helloworld/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/zqc/esp32s3-sky/esp32s3-project-sky/01-helloworld/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/zqc/esp32s3-sky/esp32s3-project-sky/01-helloworld/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
