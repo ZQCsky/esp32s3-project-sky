@@ -1,1 +1,0 @@
-/home/zqc/esp32s3-sky/esp-idf/components/mbedtls/mbedtls/library/error.c
